@@ -31,7 +31,7 @@ Explanation
 Example case 1: A=6 has X=4 factors: 1, 2, 3 and 6. It also has exactly K=2 prime factors: 2 and 3.
 '''
 
-def mySolution:
+def mySolution():
     import math
     def f(n):
         c=0
