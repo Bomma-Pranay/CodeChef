@@ -1,5 +1,5 @@
 Problem link : https://www.codechef.com/APRIL20B/problems/COVIDLQ
-
+'''
 COVID Pandemic and Long Queue Problem Code: COVIDLQ (Practice)
  
 Due to the COVID pandemic, people have been advised to stay at least 6 feet away from any other person. Now, people are lining up in a queue at the local shop and it is your duty to check whether they are all following this advice.
@@ -42,6 +42,7 @@ Example case 1: The first and third spots are occupied and the distance between 
 
 Example case 2: The first and seventh spots are occupied and the distance between them is 6 feet.
 
+'''
 My Solution:
 
 tc=int(input())
