@@ -37,6 +37,7 @@ During the first year, Chef's profit so far is 0 and the prices of the cars are 
 During the second year, Chef's profit so far is 6 and the prices of the remaining cars are [5,5]. Again, Chef sells one of these cars.
 During the third year, Chef's profit so far is 11 and there is one car with price 4. Chef sells this car.
 In the fourth year, Chef has sold all of his cars and his profit is 15. This is the maximum profit he can make.
+
 Example case 2:
 
 During the first year, Chef's profit so far is 0 and the prices of the cars are [0,1,0]. Chef sells the second car.
