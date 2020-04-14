@@ -14,6 +14,7 @@ Input
 The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 The first line of each test case contains a single integer N.
 The next line contains N space-separated integers A1,A2,…,AN.
+
 Output
 For each test case, print a single line containing the string "YES" if social distancing is being followed or "NO" otherwise (without quotes).
 
