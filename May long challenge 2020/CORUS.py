@@ -68,3 +68,4 @@ Example Output
 0
 Explanation
 Example case 1: In the pending queue for the first query, there should be 2 people with "eorona", 2 with "sorona", 1 with "aorona" and 1 with "iorona".
+'''
