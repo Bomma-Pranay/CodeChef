@@ -24,6 +24,7 @@ Note that the price of a car cannot drop below 0 no matter how many years have p
 
 Find the maximum profit Chef can make if he sells his cars in an optimal way. Since this number may be large, compute it modulo 1,000,000,007 (109+7).
 
+
 Input
 The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 The first line of each test case contains a single integer N.
