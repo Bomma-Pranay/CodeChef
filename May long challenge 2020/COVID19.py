@@ -34,7 +34,7 @@ for xyz in range(tc):
         ans.append(count)
     print(min(ans),max(ans))
 
-
+'''
 Coronavirus Spread Problem Code: COVID19SolvedSubmit (Practice)
 
 Problem statement
@@ -83,3 +83,4 @@ Example case 3:
 In one of the best possible scenarios, the person at the position 1 is infected initially and the virus will also infect the person at the position 2.
 In one of the worst possible scenarios, the person at the position 5 is infected initially and the virus will also infect the people at the positions 6 and 7.
 
+'''
