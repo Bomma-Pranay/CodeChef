@@ -35,6 +35,7 @@ for xyz in range(tc):
     print(min(ans),max(ans))
 
 '''
+
 Coronavirus Spread Problem Code: COVID19SolvedSubmit (Practice)
 
 Problem statement
