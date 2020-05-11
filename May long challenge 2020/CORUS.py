@@ -16,6 +16,7 @@ for xyz in range(tc):
             if i>c:
                 ans+=abs(i-c)
         print(ans)
+        
  
 '''
 Problem statement : Isolation Centers Problem Code: CORUSSolvedSubmit (Practice)
