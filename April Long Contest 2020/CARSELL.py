@@ -1,4 +1,22 @@
 Problem link : https://www.codechef.com/APRIL20B/problems/CARSELL
+    
+My solution:
+
+  # cook your dish here
+tc=int(input())
+for xyz in range(tc):
+    n=int(input())
+    l=list(map(int,input().split()))
+    p=0
+    k=0
+    cnt=0
+    l.sort(reverse=True)
+    for k in range(n):
+        if l[k]-cnt>=0:
+            p=(p+l[k]-cnt)%1000000007
+        cnt+=1
+    print(p%1000000007)    
+    
 '''
 Chef owns N cars (numbered 1 through N). He wishes to sell all of them over N years by selling exactly one car per year. For each valid i, the initial price of the i-th car is Pi. Due to depreciation, the price of each car decreases by 1 unit per year until it is sold.
 
@@ -45,20 +63,3 @@ During the second year, Chef's profit so far is 1 and the prices of the remainin
 During the third year, Chef's profit so far is 1 and there is one car with price 0. Chef sells this car.
 During the fourth year, Chef has sold all his cars and his profit is 1.
 '''
-
-My solution:
-
-  # cook your dish here
-tc=int(input())
-for xyz in range(tc):
-    n=int(input())
-    l=list(map(int,input().split()))
-    p=0
-    k=0
-    cnt=0
-    l.sort(reverse=True)
-    for k in range(n):
-        if l[k]-cnt>=0:
-            p=(p+l[k]-cnt)%1000000007
-        cnt+=1
-    print(p%1000000007)
