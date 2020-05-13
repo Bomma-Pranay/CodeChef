@@ -1,6 +1,6 @@
 Problem link : https://www.codechef.com/MAY20B/problems/SORTVS
 
-My slution :
+My solution :
 
 tc=int(input())
 for xyz in range(tc):
