@@ -2,7 +2,6 @@
 
 # My Solution
 
-# Problem 1
 tc=int(input())
 for xyz in range(tc):
     l=list(map(int,input().split()))
