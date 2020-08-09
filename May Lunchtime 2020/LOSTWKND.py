@@ -1,6 +1,6 @@
-#Problem Link : https://www.codechef.com/LTIME84B/problems/LOSTWKND
+# Problem Link : https://www.codechef.com/LTIME84B/problems/LOSTWKND
 
-#My Solution : 
+# My Solution : 
 
 tc=int(input())
 for xyz in range(tc):
