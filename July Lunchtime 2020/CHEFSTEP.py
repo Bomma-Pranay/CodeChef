@@ -2,7 +2,6 @@
 
 # My Solution
 
-# cook your dish here
 # Problem 1
 tc=int(input())
 for xyz in range(tc):
